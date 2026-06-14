@@ -2,7 +2,7 @@
 This is a tool for adding not detected games to the game boxroom
 
 # Usage
-First download the tool from packages section
+First download the tool from releases section
 but if you don't trust the exe file you can always download the script itself to see what it does
 find the appid of your game
 open the library page of the game then click the gear icon then select properties
